@@ -7,8 +7,8 @@ Gruvbox style (dark) (c) Pavel Pertsev (original style at https://github.com/mor
 .hljs {
   display: block;
   overflow-x: auto;
-  padding: 8px;
-  background: #282828;
+  padding: 16px;
+  background: #242424;
   border-radius: 5px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 }
